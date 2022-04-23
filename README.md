@@ -1,3 +1,17 @@
+# react-to-go (WIP)
+
+## Save time and make a quick start by using react-to-go as a starting point for your next react project.
+
+Includes:
+- Components (basic)
+- ESLint/Prettier
+- SCSS/Modules
+- CSS Vars
+- Responsive mixins styling
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
