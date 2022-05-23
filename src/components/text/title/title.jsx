@@ -28,9 +28,9 @@ Title.propTypes = {
 
 Title.defaultProps = {
   tag: "h1",
-  text: null,
+  text: "",
   color: "dark",
-  className: null,
+  className: "",
 };
 
 export default Title;

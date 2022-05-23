@@ -64,14 +64,14 @@ Content.propTypes = {
 };
 
 Content.defaultProps = {
-  text: null,
-  color: "positive",
+  text: "",
+  color: "dark",
   size: "m",
   inline: false,
   italic: false,
   markdown: false,
   children: null,
-  className: null,
+  className: "",
 };
 
 export default Content;
