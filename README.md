@@ -8,6 +8,8 @@ Includes:
 - SCSS/Modules
 - CSS Vars
 - Responsive mixins styling
+- SVG folder
+- SVG optimalization (yarn svgo)
 
 ## Available Scripts
 
