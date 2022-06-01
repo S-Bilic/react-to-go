@@ -9,7 +9,7 @@ Includes:
 - CSS Vars
 - Responsive mixins styling
 - SVG folder
-- SVG optimalization (yarn svgo)
+- SVG optimisation (yarn svgo)
 
 ## Available Scripts
 
