@@ -1,0 +1,30 @@
+.button {
+  display: inline-flex;
+  justify-content: center;
+
+  padding: var(--spacing-s) var(--spacing-l);
+  font-size: var(--font-s);
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 0.75;
+  }
+}
+
+.link {
+  background-color: transparent;
+  padding: 0;
+}
+
+.borderRadius {
+  border-radius: var(--radius-s);
+}
+
+.boxShadow {
+  box-shadow: var(--shadow);
+}
+
+.grow {
+  width: 100%;
+}
