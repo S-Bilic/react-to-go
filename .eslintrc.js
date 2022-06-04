@@ -18,7 +18,13 @@ module.exports = {
   },
   plugins: ["react"],
   rules: {
-    "no-multiple-empty-lines": [2, { max: 1 }],
+    "no-trailing-spaces": "error",
     "no-unused-vars": "warn",
+    "prettier/prettier": [
+      "error",
+      {
+        printWidth: 80,
+      },
+    ],
   },
 };
