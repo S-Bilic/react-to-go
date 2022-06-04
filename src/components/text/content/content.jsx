@@ -22,10 +22,10 @@ const Content = ({
     {
       content: true,
       italic,
+      [`color-${color}`]: color,
+      [`font-${size}`]: size,
     },
-    className,
-    [`color-${color}`],
-    [`font-${size}`]
+    className
   );
 
   const customText = () => {

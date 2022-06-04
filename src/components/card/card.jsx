@@ -19,8 +19,8 @@ const Card = ({
       borderRadius,
       padding,
       boxShadow,
+      [`background-${color}`]: color,
     },
-    [`background-${color}`],
     className
   );
 

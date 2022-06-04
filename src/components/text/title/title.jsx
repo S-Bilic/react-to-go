@@ -9,8 +9,8 @@ const Title = ({ tag, text, color, className }) => {
   const classes = cx(
     {
       title: true,
+      [`color-${color}`]: color,
     },
-    [`color-${color}`],
     className
   );
 
